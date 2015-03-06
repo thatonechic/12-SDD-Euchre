@@ -4,7 +4,7 @@
 	|| ~Euchre Card Game~ ||
 	||                    ||
 	||||||||||||||||||||||||
-	
+	yetuiery
 	Contributors:
 	
 		Sam Williamson
